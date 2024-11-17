@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I’m Surendra Kumawat, a passionate Data Analyst 
 ## 🌟 Certifications & Achievements
 
 - **HackerRank**: Gold Medal (Benz) in Python
-- **90-Day Data Analyst Journey**: Ongoing self-improvement program, currently on Day 45
+- **90-Day Data Analyst Journey**: Ongoing self-improvement program, currently on Day 46
 - **Projects**: Multiple projects on data analysis, SQL, Python, and machine learning
 - **Freelance Experience**: Providing data analytics services on Fiverr
 
